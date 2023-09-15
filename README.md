@@ -30,13 +30,19 @@ The course project was structured around four key stages:
 
 This hands-on experience mirrors the tasks encountered in real-world business intelligence projects. From data wrangling to creating meaningful visualizations, this project equips me with the skills needed to deliver actionable insights for informed decision-making.
 
+<img width="598" alt="Exec Summary - Dashboard 1" src="https://github.com/RTNGowda/Business-Intelligence-Solution-using-Power-B.I/assets/125819360/9d40034e-b9ea-4558-8b54-8d3788ab0afb">
+<img width="597" alt="Customer Detail - Dashboard 2" src="https://github.com/RTNGowda/Business-Intelligence-Solution-using-Power-B.I/assets/125819360/1d8cf43e-a401-429a-a5ed-8ad2e1202f2c">
+<img width="597" alt="Product Detail - Dashboard 3" src="https://github.com/RTNGowda/Business-Intelligence-Solution-using-Power-B.I/assets/125819360/9f3ba7f4-0ffd-497f-ab17-34199a7ac291">
+
 ## Getting Started
 
 To explore the project, simply clone this repository and open the Power BI files using Microsoft Power BI Desktop.
 
-Feel free to reach out for any questions or collaboration opportunities!<img width="598" alt="Exec Summary - Dashboard 1" src="https://github.com/RTNGowda/Business-Intelligence-Solution-using-Power-B.I/assets/125819360/9d40034e-b9ea-4558-8b54-8d3788ab0afb">
+Feel free to reach out for any questions or collaboration opportunities!
+
 
 
 ---
+
 
 Thank you for your time! If you need further assistance or want to refine any part of the content, feel free to let me know.[Power B.I - Dashboard.pdf](https://github.com/RTNGowda/Business-Intelligence-Solution-using-Power-B.I/files/12629339/Power.B.I.-.Dashboard.pdf)
