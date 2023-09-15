@@ -34,7 +34,8 @@ This hands-on experience mirrors the tasks encountered in real-world business in
 
 To explore the project, simply clone this repository and open the Power BI files using Microsoft Power BI Desktop.
 
-Feel free to reach out for any questions or collaboration opportunities!
+Feel free to reach out for any questions or collaboration opportunities!<img width="598" alt="Exec Summary - Dashboard 1" src="https://github.com/RTNGowda/Business-Intelligence-Solution-using-Power-B.I/assets/125819360/9d40034e-b9ea-4558-8b54-8d3788ab0afb">
+
 
 ---
 
