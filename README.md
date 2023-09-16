@@ -1,4 +1,4 @@
-# Power BI Course Project
+# Power BI Project
 
 Welcome to my Power BI Course Project repository! Here, you'll find the culmination of my journey as a Business Intelligence Analyst for AdventureWorks Cycles. This project showcases my proficiency in transforming raw data into insightful reports and dashboards.
 
